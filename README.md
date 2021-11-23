@@ -5,24 +5,12 @@ Video outlining use:
 https://www.youtube.com/watch?v=hrdAhPtKpGE
 
 ## Updated for the NIST CSF v1.1 update from 2018 ##
-### 2017 Markup version highlights changes from CSF v1.0 to CSF v1.1 for those migrating from the old version.
-### Also updated with CIS v8.0 release (2021)
+### Updated with CIS v8.0 release (2021)
 
 These excel documents provide a visual view of the NIST CyberSecurity Framework (CSF), adding in additional 
 fields to manage to the framework.
 
-There are currently 2 versions of the spreadsheet, listed as 2016 and 2017. The 2016 model is simpler, where the 2017 model 
-intends to provide better usability and management.
-
-## 2016 simple version
-The 2016 workbook has 3 main sheets, the first 2 are instructional and can be removed once one is comfortable with the tool. 
-The 3rd sheet has demo-data, which can be replaced with actual data from an organization. 
-
-The 2016 version and 2017 markup versions are obsolete at this point. Only use the 2017 version, reflecting recent updates 
-to the standard and supporting documentation.
-
-## 2017 robust version
-The 2017 version has: 
+Basic sections: 
  - a CMMI reference sheet 
  - Main sheet has collapsible sections for ease of display and management
  - The CSF sub-categories are listed, expanding the Information Security Catalog to address each sub control
